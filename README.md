@@ -1,2 +1,2 @@
-## Sass Crash Course | Traversy Media | Youtube
-#### Link: <a href="https://youtu.be/nu5mdN2JIwM">Watch here</a>
+## Build a Responsive Website | Traversy Media | Youtube
+#### Link: <a href="https://youtu.be/p0bGHP-PXD4">Watch here</a>
