@@ -1,3 +1,2 @@
-# Web Development Curriculum
-Made with the help of <a href="https://youtu.be/VfGW0Qiy2I0">Traversy Media's Web Dev 2021 Video </a><br>
-Trello Board Link: <a href="https://trello.com/b/LVhdIrY2">Click Here</a><br>
+## CSS Animation & Transitions Crash Course | Traversy Media | Youtube
+#### Link: <a href="https://youtu.be/zHUpx90NerM">Watch here</a>
