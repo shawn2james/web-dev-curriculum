@@ -1,0 +1,10 @@
+Color & Contrast 
+	- Don't use too many colours
+
+White space 
+	- Don't make the heading/logo too large or too small
+	- Make sure the white spaces to the sides of the central container of the page is equal.
+	- Be CONSISTENT with alignment, font, line heights, colors etc....
+
+General 
+	- When it comes to slogans/headlines, describe benefits, not features
