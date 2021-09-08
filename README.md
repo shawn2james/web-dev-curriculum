@@ -1,2 +1,2 @@
-## Javascript Arrays Crash Course | Traversy Media | Youtube
-#### Link: <a href="https://youtu.be/rRgD1yVwIvE">Watch here</a>
+## HTTP Crash Course & Exploration | Traversy Media | Youtube
+#### Link: <a href="https://youtu.be/iYM2zFP3Zn0">Watch here</a>
