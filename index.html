@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <title>Fetch API Introduction | Traversy Media</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="display-4 mb-4">Fetch API Sandbox</h1>
+        <div class="d-flex">
+            <button class="btn btn-primary mx-2" id="getText">Get Text</button>    
+            <button class="btn btn-success mx-2" id="getUsers">Get JSON</button>
+            <button class="btn btn-warning mx-2" id="getPosts">Get API DATA</button>
+        </div>
+        <hr>
+        <div id="output"></div>
+        <form id="addPost">
+            <div class="form-group my-2">
+                <input type="text" class="form-control" id="title" placeholder="Title">
+            </div>
+            <div class="form-group my-2">
+                <textarea type="text" class="form-control" id="body" placeholder="Body"></textarea>
+            </div>
+            <input type="submit" class="btn btn-secondary" value="Submit">
+        </form>
+    </div>  
+
+    <script src="main.js"></script>
+</body>
+</html>
